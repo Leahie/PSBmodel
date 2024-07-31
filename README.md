@@ -12,4 +12,4 @@ The code is split into two parts: PSB Topic Modeling and PSB Collaboration Netwo
 If you would like to use our training data, it is in this [drive](https://drive.google.com/drive/folders/1uvPSGsPaSboP7TnobM3m5kLG1hoTNZc6?usp=sharing). We used the 'Main Bodies' section to train our model, but you can experiement and try out the model with full text if curious. 
 
 ## Webapplication
-In addition to the main code, (here) [https://psb-rag.streamlit.app/] is a link to a web application that enables users to efficiently explore past proceedings. 
+In addition to the main code, [here](https://psb-rag.streamlit.app/) is a link to a web application that enables users to efficiently explore past proceedings. 
