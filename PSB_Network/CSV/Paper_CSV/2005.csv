@@ -1,0 +1,45 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb05/karklin.pdf,"Y. Karklin, R.F. Meraz, and S.R. Holbrook",Classification of Non-Coding RNA Using Graph Representations of Secondary Structure,0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb05/leaver-fay.pdf,"A. Leaver-Fay, B. Kuhlman, and J. Snoeyink",An Adaptive Dynamic Programming Algorithm for the Side Chain Placement Problem,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb05/li.pdf,X. Li and J. Liang,Computational Design of Combinatorial Peptide Library for Modulating Protein-Protein Interactions,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb05/russel.pdf,D. Russel and L. Guibas,Exploring Protein Folding Trajectories Using Geometric Spanners,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb05/singh.pdf,R. Singh and B. Berger,ChainTweak: Sampling from the Neighbourhood of a Protein Conformation,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb05/wang.pdf,"Y. Wang, P.K.Agarwal, P.Brown, H. Edelsbrunner, and J. Rudolph",Coarse and Reliable Geometric Alignment for Protein Docking,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb05/bechhofer.pdf,"S.K. Bechhofer, R.D. Stevens, and P.W. Lord",Ontology Driven Dynamic Linking of Biology Resources,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb05/bodenreider.pdf,"O. Bodenreider, M Aubry, and A. Burgun",Non-Lexical Approaches to Identifying Associative Relations in the Gene Ontology,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb05/cantor.pdf,"M.N. Cantor, I.N. Sarkar, O. Bodenreider, and Y.A. Lussier",GenesTrace: Phenomic Knowledge Discovery via Structured Terminology,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb05/gennari.pdf,"J.H. Gennari, A. Silberfein, and J.C. Wiley",Integrating Genomic Knowledge Sources Through an Anatomy Ontology,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb05/hayete.pdf,B. Hayete and J.R. Bienkowska,GOTrees: Predicting GO Associations from Protein Domain Composition Using Decision Trees,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb05/hoffman.pdf,"M. Hoffman, C. Arnoldi, and I. Chuang",The Clinical Bioinformatics Ontology: A Curated Semantic Network Utilizing RefSeq Information,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb05/lu.pdf,Z. Lu and L. Hunter,GO Molecular Function Terms Are Predictive of Subcellular Localization,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb05/marshall.pdf,"B. Marshall, H. Su, D. McDonald, and H. Chen",Linking Ontological Resources Using Aggregatable Substance Identifiers to Organize Extracted Relations,13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb05/ogren.pdf,"P.V. Ogren, K.B. Cohen, and L. Hunter",Implications of Compositionality in the Gene Ontology for Its Curation and Usage,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb05/orchard.pdf,"S. Orchard, L. Montecchi-Palazzi, H. Hermjakob, and R. Apweiler",The Use of Common Ontologies and Controlled Vocabularies to Enable Data Exchange and Deposition for Complex Proteomic Experiments,15.0,True
+16,https://psb.stanford.edu/psb-online/proceedings/psb05/spasic.pdf,I. Spasic and S. Ananiadou,A Flexible Measure of Contextual Similarity for Biomedical Terms,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb05/tari.pdf,"L. Tari, C. Baral, and P. Dasgupta",Understanding the Global Properties of Functionally-Related Gene Networks Using the Gene Ontology,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb05/xiong.pdf,"H. Xiong, X. He, C. Ding, Y. Zhang, V. Kumar, and S.R. Holbrook",Identification of Functional Modules in Protein Complexes via Hyperclique Pattern Discovery,18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb05/yamakawa.pdf,"H. Yamakawa, K. Maruhashi, and Y.Nakao",Multi-Aspect Gene Relation Analysis,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb05/draghici.pdf,"S. Draghici, P. Khatri, Y. Liu, K.J. Chase, E.A. Bode, D.A. Kulesh, L.P. Wasieloski, D.A. Norwood, and J. Reifman",Identification of Genomic Signatures for the Design of Assays for the Detection and Monitoring of Anthrax Threats,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb05/ferrin.pdf,"T.E. Ferrin, C.C. Huang, D.M. Greenblatt, D. Stryke, K.M. Giacomini, and J.H. Morris",Enhancing Data Sharing in Collaborative Research Projects with DASH,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb05/gui.pdf,J. Gui and H. Li,Threshold Gradient Descent Method for Censored Data Regression with Applications in Pharmacogenomics,22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb05/peccoud.pdf,J. Peccoud and K. Vander Velden,Parameterization of a Nonlinear Genotype to Phenotype Map Using Molecular Networks,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb05/reif.pdf,"D.M. Reif, S.M. Dudek, C.M. Shaffer, J. Wang, and J.H. Moore",Exploratory Visual Analysis of Pharmacogenomic Results,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb05/sirohi.pdf,E. Sirohi and P. Peissig,Study of Effect of Drug Lexicons on Medication Extraction from Electronic Medical Records,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb05/brown.pdf,"D. Brown, N. Krishnamurthy, J.M. Dale, W. Christopher, and K. Sjölander",Subfamily HMMS in Functional Genomics,26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb05/chen-b.pdf,"B.Y. Chen, V.Y. Fofanov, D.M. Kristensen, M. Kimmel, O. Lichtarge, and L.E. Kavraki",Algorithms for Structural Comparison and Statistical Analysis of 3D Protein Motifs,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb05/nguyen.pdf,M.N. Nguyen and J.C. Rajapakse,Two-Stage Multi-Class Support Vector Machines to Protein Secondary Structure Prediction,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb05/pegg.pdf,"S.C.-H. Pegg, S. Brown, S. Ojha, C.C. Huang, T.E. Ferrin, and P.C. Babbitt",Representing Structure-Function Relationships in Mechanistically Diverse Enzyme Superfamilies,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb05/tang.pdf,"T. Tang, J. Xu, and M. Li",Discovering Sequence-Structure Motifs from Protein Segments and Two Applications,30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb05/anantharaman.pdf,"T.S. Anantharaman, V. Mysore, and B. Mishra",Fast and Cheap Genome Wide Haplotype Construction via Optical Mapping,31.0,True
+32,https://psb.stanford.edu/psb-online/proceedings/psb05/karchin.pdf,"R. Karchin, L.Kelly, and A. Sali",Improving Functional Annotation of Non-Synonomous SNPs with Information Theory,32.0,True
+33,https://psb.stanford.edu/psb-online/proceedings/psb05/rogozin.pdf,"I.B. Rogozin, B.A. Malyarchuk, Y.I. Pavlov, and L. Milanesi",From Context-Dependence of Mutations to Molecular Mechanisms of Mutagenesis,33.0,True
+34,https://psb.stanford.edu/psb-online/proceedings/psb05/webb-robertson.pdf,"B.M. Webb-Robertson, S.L. Havre, and D.A. Payne",A Bayesian Framework for SNP Identification,34.0,True
+35,https://psb.stanford.edu/psb-online/proceedings/psb05/yampolsky.pdf,L.Y. Yampolsky and A. Stoltzfus,Untangling the Effects of Codon Mutation and Amino Acid Exchangeability,35.0,True
+36,https://psb.stanford.edu/psb-online/proceedings/psb05/badea.pdf,L. Badea and D. Tilivea,Sparse Factorizations of Gene Expression Guided by Binding Data,36.0,True
+37,https://psb.stanford.edu/psb-online/proceedings/psb05/bernard.pdf,A. Bernard and A.J. Hartemink,Informative Structure Priors: Joint Learning of Dynamic Regulatory Networks from Multiple Types of Data,37.0,True
+38,https://psb.stanford.edu/psb-online/proceedings/psb05/chen-yu.pdf,Y. Chen and D. Xu,Genome-Scale Protein Function Prediction in Yeast Saccharomyces cerevisiae Through Integrating Multiple Sources of High-Throughput Data,38.0,True
+39,https://psb.stanford.edu/psb-online/proceedings/psb05/debie.pdf,"T. De Bie, P. Monsieurs, K. Engelen, B. De Moor, N. Cristianini, and K. Marchal","Discovering Transcriptional Modules from Motif, Chip-Chip and Microarray Data",39.0,True
+40,https://psb.stanford.edu/psb-online/proceedings/psb05/frey.pdf,"B. Frey, Q. Morris, W. Zhang, N. Mohammad, and T. Hughes",GenRate: A Generative Model That Finds and Scores New Genes and Exons in Genomic Microarray Data,40.0,True
+41,https://psb.stanford.edu/psb-online/proceedings/psb05/makita.pdf,"Y. Makita, M.J.L. De Hoon, N. Ogasawara, S. Miyano, and K. Nakai",Bayesian Joint Prediction of Associated Transcription Factors in Bacillus subtilis,41.0,True
+42,https://psb.stanford.edu/psb-online/proceedings/psb05/philippakis.pdf,"A.A. Philippakis, F.S. He, and M.L. Bulyk",ModuleFinder: A Tool for Computational Discovery of Cis Regulatory Modules,42.0,True
+43,https://psb.stanford.edu/psb-online/proceedings/psb05/qi.pdf,"Y. Qi, J. Klein-Seetharaman, and Z. Bar-Joseph",Random Forest Similarity for Protein-Protein Interaction Prediction from Multiple Sources,43.0,True

@@ -1,0 +1,56 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb00/dean.pdf,A. M. Dean and G. B. Goldin,Enzyme Evolution Explained (Sort Of),0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb00/dimmic.pdf,"M.W. Dimmic, D.P. Mindell, and R.A. Goldstei",Modeling Evolution at the Protein Level Using an Adjustable Amino Acid Fitness Model,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb00/gerstein.pdf,"M. Gerstein, J. Lin, and H. Hegy",Protein Folds in the Worm Genome,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb00/pawlowski.pdf,"K. Pawlowski, L. Jaroszewski, L. Rychlewski, and A. Godzi",Sensitive Sequence Comparison as Protein Function Predictor,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb00/renner.pdf,A. Renner and A. Aszód,High-throughput Functional Annotation of Novel Gene Products Using Document Clustering,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb00/taverna.pdf,D.M. Taverna and R.M. Goldstei,The Evolution of Duplicated Genes Considering Protein Stability Constraints,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb00/yang.pdf,Z. Yan,Relating Physicochemmical Properties of Amino Acids to Variable Nucleotide Substitution Patterns Among Sites,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb00/backofen.pdf,"R. Backofen, S. Will, J. Bond, and P. Clot",Algorithmic Approach to Quantifying the Hydrophobic Force Contribution in Protein Folding,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb00/bienkowska.pdf,"J.R. Bienkowska, R.G. Rogers Jr., and T.F. Smit",Eliminating Superfluous Neighbor Pairs While Threading Fold Models,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb00/fischer.pdf,D. Fische,Hybrid Fold Recognition: Combining Sequence Derived Properties with Evolutionary Information,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb00/galzitskaya.pdf,"O.V. Galzitskaya, A.V. Skoogarev, D.N. Uvankov, and A.V. Finkelstei",Folding Nuclei in 3D Protein Structures,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb00/olszewski.pdf,K.A. Olszewsk,How Universal Are Fold Recognition Parameters.  A Comprehensive Study of Alignment and Scoring Function Parameters Influence on Recognition of Distant Folds,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb00/ranganathan.pdf,"S. Ranganathan, D.A. Male, R.J. Ormsby, E. Giannakis, and D.L. Gordo",Pinpointing the Putative Heparin/Sialic Acid-Binding Residues in the 'Sushi' Domain 7 of Factor H: A Molecular Modeling Study,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb00/reva.pdf,B. Reva and S. Topio,"Recognition of Protein Structure: Determining the Relative Energetic  Contributions of Beta-strands, Alpha-helices and Loops",13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb00/samudrala.pdf,"R. Samudrala, Y. Xia, M. Levitt, N.J. Cotton, E.S. Huang, and R. Davi",Probing Structure-Function Relationships of the DNA Polymerase Alpha-Associated Zinc-Finger Protein Using Computational Approaches,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb00/thorpe.pdf,"M. F. Thorpe, B. M. Hespenheide, Y. Yang and L. A. Kuh",Flexibility and Critical Hydrogen Bonds in Cytochrome C,15.0,False
+16,https://psb.stanford.edu/psb-online/proceedings/psb00/guyon.pdf,"F. Guyon, G. Vaysseix, and E. Barillo",MappetShow:  Non-Linear Visualization for Genome Data,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb00/hansen.pdf,"M. D. Hansen, S. Lodha, A. Pan",ProFeel: Low Cost Visual-Haptic Perceptualization of Protein Structure-Structure Alignments,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb00/huang.pdf,"C.C. Huang, W.R. Novak, P.C. Babbitt, A.I. Jewett, T.E. Ferrin and T.E. Klei",Integrated Tools for Structural and Sequence Alignment and Analysis,18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb00/kearney.pdf,"P. Kearney, A. Secord, and H. Zhan",InVest:  Interactive and Visual Edge Selection Tool for Constructing Evolutionary Trees,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb00/konerding.pdf,D.E. Konerdin,The Ensemble/Legacy Chimera Extension: Standardized User and Programmer Interface to Molecular Ensemble Data and Legacy Modeling Programs,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb00/shah.pdf,I. Shah and L. Hunte,Visual Management of Large Scale Data Mining Projects,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb00/akutsu.pdf,"T. Akutsu, S. Miyano, and S.Kuhar",Algorithms for Inferring Qualitative Models of Biological Networks,22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb00/ideker.pdf,"T.E. Ideker, V. Thorsson, and R.M. Kar",Discovery of Regulatory Interactions Through Perturbation: Inference and Experimental Design,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb00/kyoda.pdf,"K. Kyoda, M. Muraki, and H. Kitan",Construction of a Generalized Simulator for Multi-cellular Organisms and  its Application to SMAD Signal Transduction,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb00/marnellos.pdf,"G. Marnellos, G.A. Deblandre, E. Mjolsness, and C. Kintne",Delta-Notch Lateral Inhibitory Patterning in the Emergence of Ciliated Cells in Xenopus:  Experimental Observations and a Gene Network Model,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb00/matsuno.pdf,"H. Matsuno, A. Doi, M. Nagasaki, and S. Miyan",Hybrid Petri Net Representation of Gene Regulatory Network,26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb00/zhang.pdf,C. Zhang and S-H. Ki,The Effect of Dynamic Receptor Clustering on the Sensitivity of Biochemical Signaling,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb00/nakaya.pdf,"A. Nakaya, H. Hishigaki, and S. Morishit",Mining the Quantitative Trait Loci Associated with Oral Glucose Tolerance in the Oletf Rat,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb00/ohler.pdf,"U. Ohler, G. Stommer, and S. Harbec",Stochastic Segment Models of Eukaroyotic Promoter Regions,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb00/wareham.pdf,"H.T. Wareham, T. Jiang, X. Zhang, and C.G. Trendal",Stochastic Heuristic Algorithms for Target Motif Identification (Extended Abstract),30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb00/whelan.pdf,K. Whelan and J. Glasgo,Identifying Amino Acid Residues in Medium Resolution Critical Point Graphs Using Instance Based Query Generation,31.0,True
+32,https://psb.stanford.edu/psb-online/proceedings/psb00/butte.pdf,A. J. Butte and I. S. Kohan,Mutual Information Relevance Networks:  Functional Genomic Clustering Using Pairwise Entropy Measurements,32.0,True
+33,https://psb.stanford.edu/psb-online/proceedings/psb00/ewing.pdf,R.M. Ewing and J-M. Claveri,EST Databases as Multi-Conditional Gene Expression Datasets,33.0,True
+34,https://psb.stanford.edu/psb-online/proceedings/psb00/pollet.pdf,"N. Pollet, H. Schmidt, V. Gawantka, C. Niehrs, and M. Vingro",In Silico Analysis of Gene Expression Patterns During Early Development of Xenopus laevis,34.0,True
+35,https://psb.stanford.edu/psb-online/proceedings/psb00/raychaudhuri.pdf,"S. Raychaudhuri, J.M. Stuart, and R.B. Altma",Principal Components Analysis to Summarize Microarray Experiments:  Application to Sporulation Time Series,35.0,True
+36,https://psb.stanford.edu/psb-online/proceedings/psb00/workman.pdf,C.T. Workman and G.D. Storm,ANN-Spec: A Method for Discovering Transcription Factor Binding Sites with Improved Specificity,36.0,True
+37,https://psb.stanford.edu/psb-online/proceedings/psb00/zhu.pdf,J. Zhu and M. Q. Zhan,"Cluster, Function and Promoter:  Analysis of Yeast Expression Array",37.0,True
+38,https://psb.stanford.edu/psb-online/proceedings/psb00/baclawski.pdf,"K. Baclawski, J. Cigna, M.M. Kokar, P. Mager, and B. Indurkhy",Knowledge Representation and Indexing Using the Unified Medical Language System,38.0,True
+39,https://psb.stanford.edu/psb-online/proceedings/psb00/humphreys.pdf,"K. Humphreys, G. Demetriou and R. Gaizauska",Two Applications of Information Extraction to Biological Science Journal  Articles:  Enzyme Interactions and Protein Structures,39.0,True
+40,https://psb.stanford.edu/psb-online/proceedings/psb00/rindflesch.pdf,"T.C. Rindflesch, Lorraine Tanabe, John N. Weinstein, and L. Hunte","EDGAR: Extraction of Drugs, Genes and Relations from the Biomedical Literature",40.0,True
+41,https://psb.stanford.edu/psb-online/proceedings/psb00/stapley.pdf,B.J. Stapley and G. Benoi,Biobibliometrics: Information Retrieval and Visualization from Co-Occurrences of Gene Names in Medline Abstracts,41.0,True
+42,https://psb.stanford.edu/psb-online/proceedings/psb00/thomas.pdf,"J. Thomas, D. Milward, C. Ouzounis, S. Pulman, and M. Carrol",Automatic Extraction of Protein Interactions from Scientific Abstracts,42.0,True
+43,https://psb.stanford.edu/psb-online/proceedings/psb00/dunbar.pdf,J.B. Dunba,Compound Acquisition Strategies,43.0,True
+44,https://psb.stanford.edu/psb-online/proceedings/psb00/godden.pdf,"J.W. Godden, L. Xue, F.L. Stahura, and J. Bajorat",Searching for Molecules with Similar Biological Activity:  Analysis by Fingerprint Profiling,44.0,True
+45,https://psb.stanford.edu/psb-online/proceedings/psb00/mason.pdf,J.S. Mason and D.L. Chene,Library Design and Virtual Screening Using Multiple 4-Point Pharmacophore Fingerprints,45.0,True
+46,https://psb.stanford.edu/psb-online/proceedings/psb00/zheng.pdf,"W. Zheng, S. T. Hung, J. T. Saunders, and G. L. Seibe",Piccolo: A Tool For Combinatorial Library Design Via Multicriterion Optimization,46.0,True
+47,https://psb.stanford.edu/psb-online/proceedings/psb00/dewey.pdf,T.G. Dewe,Information Dynamics of In Vitro Selection-Amplification Systems,47.0,True
+48,https://psb.stanford.edu/psb-online/proceedings/psb00/grosse.pdf,"I. Grosse, S.V. Buldyrev, H. E. Stanley, D. Holste, and H. Herze",Average Mutual Information of Coding and Noncoding DNA,48.0,True
+49,https://psb.stanford.edu/psb-online/proceedings/psb00/kschischo.pdf,M. Kschischo and M. Lässi,Finite-temperature Sequence Alignment,49.0,True
+50,https://psb.stanford.edu/psb-online/proceedings/psb00/cheungnew.pdf,"K-H. Cheung, P.L. Miller, J.R. Kidd, K.K. Kidd, M.V. Osier, and A. J. Paksti",ALFRED: A Web-Accessible Allele Frequency Database,50.0,True
+51,https://psb.stanford.edu/psb-online/proceedings/psb00/cheung.pdf,"K-H. Cheung, P.L. Miller, J.R. Kidd, K.K. Kidd, M.V. Osier, and A. J. Paksti",ALFRED: A Web-Accessible Allele Frequency Database,51.0,True
+52,https://psb.stanford.edu/psb-online/proceedings/psb00/collins.pdf,A. Collin,Linkage Disequilibrium Mapping:  Using Single Nucleotide Polymorphisms - Which Population?,52.0,True
+53,https://psb.stanford.edu/psb-online/proceedings/psb00/gordon.pdf,"D. Gordon, S.M. Leal, S.C. Heath, and J. Ot",An Analytic Solution to Single Nucleotide Polymorphism Error-Detection Rates in Nuclear Families:  Implications for Study Design,53.0,True
+54,https://psb.stanford.edu/psb-online/proceedings/psb00/xiong.pdf,"M. Xiong, J. Akey, and L. Ji",The Haplotype Linkage Disequilibrium Test for Genome-Wide Screens: Its Power and Study,54.0,True

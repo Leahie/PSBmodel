@@ -1,0 +1,51 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb01/butte.pdf,"A. J. Butte, J.Ye, G. Niederfellner, K. Rett, H.U. Häring, M.F.White,  and  I. S. Kohane      ",Determining Significant Fold Differences in Gene Expression Analysis,0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb01/gordon.pdf,D. Gordon and J. Ott        ,Assessment and Management of Single Nucleotide Polymorphism Genotype  Errors in Genetic Association,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb01/kim.pdf,"J.H. Kim, L. Ohno-Machado, and I.S. Kohane          ",Unsupervised Learning from Complex Data: The Matrix Incision Tree Algorithm,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb01/klus.pdf,"G.T. Klus, A. Song, A. Schick, M. Wahde, and Z. Szallasi    ",Mutual Information Analysis as a Tool to Assess the Role of Aneuploidy in the Generation of Cancer-Associated Differential Gene Expression Patterns,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb01/park.pdf,"P.J. Park, M. Pagano, and M. Bonetti                ",A Nonparametric Scoring Algorithm for Identifying Informative Genes from  Microarray Data,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb01/alex.pdf,A.T. Alexandresc,An NMR-Based Quenched Hydrogen Exchange Investigation of Model  Amyloid Fibrils Formed by Cold Shock Protein A,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb01/prompers.pdf,"J.J. Prompers, S.F. Lienin, and R. Brüschweile",Collective Reorientational Motion and Nuclear Spin Relaxation in Proteins,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb01/williams.pdf,"R.M. Williams, Z. Obradovic, V. Mathura, W. Braun, E.C. Garner,  J. Young, S. Takayama, C. J. Brown, and A.K. Dunke",The Protein Non-Folding Problem: Amino Acid Determinants of Intrinsic  Order and Disorder,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb01/benham.pdf,C.J. Benha,Stress-Induced DNA Duplex Destabilization in Transcriptional  Initiation,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb01/benos.pdf,"P.V. Benos, A.S. Lapedes, D.S. Fields, and G.D. Stormo",SAMIE:  Statistical Algorithm for Modeling Interaction Energies,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb01/liu.pdf,"X. Liu, D.L. Brutlag, and J.S. Li",BioProspector: Discovering Conserved DNA Motifs in Upstream Regulatory  Regions of Co-Expressed Genes,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb01/mg.pdf,"Y. Mandel-Gutfreund, A. Baron, and H. Margali",A Structure-Based Approach for Prediction of Protein Binding Sites in  Gene-Upstream Regions,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb01/pavlidis.pdf,"P. Pavlidis, T. S. Furey, M. Liberto, D. Haussler, and W. N. Grund",Promoter Region-Based Classification of Genes,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb01/conery.pdf,J.S. Conery and M. Lync,Nucleotide Substitutions and the Evolution of Duplicate Genes,13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb01/hein.pdf,J. Hei,An Algorithm for Statistical Alignment of Sequences Related by a Binary Tree,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb01/koshi.pdf,K.M. Koshi and R.A. Goldstei,Analyzing Rate Heterogeneity During Protein Evolution,15.0,True
+16,https://psb.stanford.edu/psb-online/proceedings/psb01/rzhetsky.pdf,A. Rzhetsky and P. Morozov,Markov Chain Monte Carlo Computation of Confidence Intervals for  Substitution-Rate Variation in Proteins,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb01/tavare.pdf,"S. Tavaré, D.C. Adams, O. Fedrigo, and G.J.P. Naylo",A Model for Phylogenetic Inference Using Structural and Chemical Covariates,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb01/yang.pdf,Z. Yan,Maximum Likelihood Analysis of Adaptive Evolution in HIV-1 Gp120  env Gene,18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb01/banatao.pdf,"D.R. Banatao, C.C. Huang, P.C. Babbitt, R.B. Altman, and T.E. Klein",ViewFeature: Integrated Feature Analysis and Visualization,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb01/dimitrov.pdf,A.G. Dimitrov and J.P. Mille,Analyzing Sensory Systems with the Information Distortion Function,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb01/grate.pdf,"L. Grate, M. Diekhans, D. Dahle, and R. Hughe",Sequence Analysis With the Kestrel SIMD Parallel Processor,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb01/guda.pdf,"C. Guda, E. D. Scheeff, P. E. Bourne, and I. N. Shindyalo",A New Algorithm for the Alignment of Multiple Protein Structures Using Monte  Carlo Optimization,22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb01/hsu.pdf,T. Hsu and P. Cul,Gene Verification and Discovery by Walking Tree Method,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb01/hvidsten.pdf,"T.R. Hvidsten, J. Komorowski, A.K. Sandvik, and A. Lægreid",Predicting Gene Function from Gene Expressions and Ontologies,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb01/martins.pdf,"W.S. Martins, J.B. Del Cuvillo, F.J. Useche, K.B. Theobald, and G.R. Ga",A Multithreaded Parallel Implementation of a Dynamic Programming  Algorithm for Sequence Comparison,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb01/rice.pdf,E. Rice and R. Hughey,Molecular Fingerprinting on the SIMD Parallel Processor Kestrel,26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb01/sasik.pdf,"R. Sásik, T. Hwa, N. Iranfar, and W.F. Loomi",Percolation Clustering: A Novel Algorithm Applied to the Clustering of  Gene Expression Patterns in Dictyostelium Development,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb01/sengupta.pdf,R. Sengupta and M. Tomp,Quality Control in Manufacturing Oligo Arrays:  A Combinatorial  Design Approach,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb01/waugh.pdf,"A. Waugh, G.A. Williams, L. Wei, and R.B. Altma",Using Metacomputing Tools to Facilitate Large Scale Analyses of  Biological Databases,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb01/chang.pdf,"J.T. Chang, S. Raychaudhuri, and R.B. Altma",Including Biological Literature Improves Homology Search,30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb01/ili.pdf,"I. Iliopoulos, A. J. Enright, and C. A. Ouzounis",TEXTQUEST: Document Clustering of MEDLINE Abstracts For Concept  Discovery In Molecular Biology,31.0,True
+32,https://psb.stanford.edu/psb-online/proceedings/psb01/jcpark.pdf,"J. C. Park, H. S. Kim, and J. J. Ki",Bidirectional Incremental Parsing for Automatic Pathway Identification with  Combinatory Categorial Grammar,32.0,True
+33,https://psb.stanford.edu/psb-online/proceedings/psb01/yakushiji.pdf,"A. Yakushiji, Y. Tateisi, Y. Miyao, and J. Tsuji",Event Extraction from Biomedical Papers Using a Full Parser,33.0,True
+34,https://psb.stanford.edu/psb-online/proceedings/psb01/hartemink.pdf,"A.J. Hartemink, D.K. Gifford, T.S. Jaakkola, and R.A. Youn",Using Graphical Models and Genomic Expression Data to Statistically Validate  Models of Genetic Regulatory Networks,34.0,True
+35,https://psb.stanford.edu/psb-online/proceedings/psb01/koza.pdf,"J.R. Koza, W. Mydlowec, G. Lanza, J. Yu, and M.A. Kean",Reverse Engineering of Metabolic Pathways from Observed Data Using Genetic Programming,35.0,True
+36,https://psb.stanford.edu/psb-online/proceedings/psb01/maki.pdf,"Y. Maki, D. Tominaga, M. Okamoto, S. Watanabe, and Y. Eguch",Development of a System for the Inference of Large Scale Genetic Networks,36.0,True
+37,https://psb.stanford.edu/psb-online/proceedings/psb01/regev.pdf,"A. Regev, W. Silverman, and E. Shapir",Representation and Simulation of Biochemical Processes Using the pi- Calculus Process Algebra,37.0,True
+38,https://psb.stanford.edu/psb-online/proceedings/psb01/romero.pdf,P.R. Romero and P. Kar,Nutrition-Related Analysis of Pathway/Genome Databases,38.0,True
+39,https://psb.stanford.edu/psb-online/proceedings/psb01/stephens.pdf,"M. Stephens, M. Palakal, S. Mukhopadhyay, R. Raje, and J.  Mostaf",Detecting Gene Relations from MEDLINE Abstracts,39.0,True
+40,https://psb.stanford.edu/psb-online/proceedings/psb01/tsien.pdf,"C.L. Tsien, T.A. Libermann, X. Gu, and I.S. Kohan",On Reporting Fold Differences,40.0,True
+41,https://psb.stanford.edu/psb-online/proceedings/psb01/wessels.pdf,"L.F.A. Wessels, E.P. Van Someren, and M.J.T. Reinder",A Comparison of Genetic Network Models,41.0,True
+42,https://psb.stanford.edu/psb-online/proceedings/psb01/wong.pdf,L. Won,"PIES, A Protein Interaction Extraction System",42.0,True
+43,https://psb.stanford.edu/psb-online/proceedings/psb01/you.pdf,L. You and J. Yi,Simulating the Growth of Viruses,43.0,True
+44,https://psb.stanford.edu/psb-online/proceedings/psb01/be.pdf,"O.R.P. Bininda-Emonds, S.G. Brady, J. Kim, and M.J. Sanderso",Scaling of Accuracy in Extremely Large Phylogenetic Trees,44.0,True
+45,https://psb.stanford.edu/psb-online/proceedings/psb01/evans.pdf,P.A. Evans and H.T. Wareha,Exact Algorithms for Computing Pairwise Alignments and 3-Medians From  Structure-Annotated Sequences (Extended Abstract),45.0,True
+46,https://psb.stanford.edu/psb-online/proceedings/psb01/jkim.pdf,J. Kim and B.A. Salisbury,A Tree Obscured By Vines:  Horizontal Gene Transfer and the Median Tree  Method of Estimating Species Phylogeny,46.0,True
+47,https://psb.stanford.edu/psb-online/proceedings/psb01/moret.pdf,"B.M.E. Moret, S. Wyman, D.A. Bader, T. Warnow, and M. Ya",A New Implmentation and Detailed Study of Breakpoint Analysis,47.0,True
+48,https://psb.stanford.edu/psb-online/proceedings/psb01/ren.pdf,"F. Ren, S. Ogishima, and H. Tanak",A New Algorithm for Analysis of Within-Host HIV-1 Evolution,48.0,True
+49,https://psb.stanford.edu/psb-online/proceedings/psb01/steinbachs.pdf,"J.E. Steinbachs, N.V. Schizas, and J.W.O. Ballar",Efficiencies of Genes and Accuracy of Tree-Building Methods in Recovering  a Known Drosophila Genealogy,49.0,True

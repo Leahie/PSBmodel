@@ -1,0 +1,56 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb02/benhur.pdf,"A. Ben-Hur, A. Elisseeff, and I. Guyon",A Stability Based Method for Discovering Structure in Clustered Data,0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb02/ghosh.pdf,D. Ghosh,Singular Value Decomposition Regression Models for Classification of Tumors from Microarray Experiments,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb02/heil.pdf,"J. Heil, S. Glanowski, J. Scott, E. Winn-Deen, I. McMullen, L. Wu, C. Gire, and A. Sprague",An Automated Computer System to Support Ultra High Throughput SNP Genotyping,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb02/malin.pdf,B.A. Malin and L.A. Sweeney,Inferring Genotype from Clinical Phenotype through a Knowledge Based Algorithm,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb02/moore.pdf,J.H. Moore and L.W. Hahn,A Cellular Automata Approach to Detecting Interactions Among Single-nucleotide Polymorphisms in Complex Multifactorial Diseases,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb02/oliver.pdf,"D.E. Oliver, D.L. Rubin, J.M. Stuart, M. Hewett, T.E. Klein, and R.B. Altman",Ontology Development for a Pharmacogenetics Knowledge Base,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb02/potter.pdf,R.B. Potter and S. Draghici,A SOFM Approach to Predicting HIV Drug Resistance,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb02/rubin.pdf,"D.L. Rubin, M. Hewett, D.E. Oliver, T.E. Klein, and R.B. Altman",Automating Data Acquisition into Ontologies from Pharmacogenetics Relational Data Sources Using Declarative Object Definitions and XML,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb02/zhang.pdf,"S. Zhang, K. Zhang, J. Li, and H. Zhao",On a Family-Based Haplotype Pattern Mining Method for Linkage Disequilibrium Mapping,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb02/chiaromonte.pdf,"F. Chiaromonte, V.B. Yap, and W. Miller",Scoring Pairwise Genomic Sequence Alignments,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb02/cline.pdf,"M. Cline, G. Liu, A.E. Loraine, R. Shigeta, J. Cheng, G. Mei, D. Kulp, and M.A. Siani-Rose",Structure-Based Comparison of Four Eukaryotic Genomes,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb02/goldberg.pdf,"D. Goldberg, S. McCouch, and J. Kleinberg",Constructing Comparative Genome Maps with Unresolved Marker Order,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb02/gherbi.pdf,R. Gherbi and J. Herisson,Representation and Processing of Complex DNA Spatial Architecture and its Annotated Genomic Content,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb02/holmes.pdf,I. Holmes and G.M. Rubin,Pairwise RNA Structure Comparison with Stochastic Context-Free Grammars,13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb02/imoto.pdf,"S. Imoto, T. Goto and S. Miyano",Estimation of Genetic Networks and Functional Structures Between Genes by Using Bayesian Networks and Nonparametric Regression,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb02/kel-margoulis.pdf,"O.V. Kel-Margoulis, T.G. Ivanova, E. Wingender, and A.E. Kel",Automatic Annotation of Genomic Regulatory Sequences by Searching for Composite Clusters,15.0,True
+16,https://psb.stanford.edu/psb-online/proceedings/psb02/mulyukov.pdf,Z. Mulyukov and P.A. Pevzner,EULER-PCR: Finishing Experiments for Repeat Resolution,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb02/nakhleh.pdf,"L. Nakhleh, B.M.E. Moret, U. Roshan, K. St. John, J. Sun, and T. Warnow",The Accuracy of Fast Phylogenetic Methods for Large Datasets,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb02/patterson.pdf,"D.J. Patterson, K. Yasuhara, and W.L. Ruzzo",Pre-mRNA Secondary Structure Prediction Aids Splice Site Prediction,18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb02/sze.pdf,"S.-H. Sze, M.S. Gelfand, and P.A. Pevzner",Finding Weak Motifs in DNA Sequences,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb02/volkmuth.pdf,"W. Volkmuth, and N. Alexandrov",Evidence for Sequence-Independent Evolutionary Traces in Genomics Data,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb02/wu.pdf,S. Wu and X. Gu,Multiple Genome Rearrangement by Reversals,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb02/yamaguchi.pdf,"Y. Yamaguchi, T. Maruyama, and A. Konagaya",High Speed Homology Search with FPGAs,22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb02/bohne.pdf,A. Bohne and C.-W. von der Lieth,Glycosylation of Proteins: A Computer Based Method for the Rapid Exploration of Comformational Space of N-Glycans,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb02/cooper.pdf,"C.A. Cooper, M.J. Harrison, J.M. Webster, M.R. Wilkins, and N.H. Packer",Data Standardisation in GlycoSuiteDB,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb02/gupta.pdf,R. Gupta and S. Brunak,Prediction of Glycosylation Across the Human Proteome and the Correlation to Protein Function,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb02/ding.pdf,"J. Ding, D. Berleant, D. Nettleton, and E. Wurtele","Mining MEDLINE: Abstracts, Sentences, or Phrases?",26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb02/hahn.pdf,"U. Hahn, M. Romacker, and S. Schulz",Creating Knowledge Repositories from Biomedical Reports: The MEDSYNDIKATE Text Mining System,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb02/leroy.pdf,G. Leroy and H. Chen,Filling Preposition-Based Templates to Capture Information from Medical Abstracts,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb02/pustejovsk.pdf,"J. Pustejovsky, J. Castaño, J. Zhang, M. Kotecki, and B. Cochran",Robust Relational Parsing Over Biomedical Literature: Extracting Inhibit Relations,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb02/stapley.pdf,"B.J. Stapley, L.A. Kelley, and M.J.E. Sternberg",Predicting the Sub-Cellular Location of Proteins from Text Using Support Vector Machines,30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb02/wilbur.pdf,W.J. Wilbur,A Thematic Analysis of the AIDS Literature,31.0,True
+32,https://psb.stanford.edu/psb-online/proceedings/psb02/eker.pdf,"S. Eker, M. Knapp, K. Laderoute, P. Lincoln, J. Meseguer, and K. Sonmez",Pathway Logic: Symbolic Analysis of Biological Signaling,32.0,True
+33,https://psb.stanford.edu/psb-online/proceedings/psb02/gomez.pdf,S.M. Gomez and A. Rzhetsky,Towards the Prediction of Complete Protein-Protein Interaction Networks,33.0,True
+34,https://psb.stanford.edu/psb-online/proceedings/psb02/guhathakurta.pdf,"D. Guhathakurta, L.A. Schriefer, M.C. Hresko, R.H. Waterston, and G.D. Stormo",Identifying Muscle Regulatory Elements and Genes in the Nematode Caenorhabditis Elegans,34.0,True
+35,https://psb.stanford.edu/psb-online/proceedings/psb02/hartemink.pdf,"A.J. Hartemink, D.K. Gifford, T.S. Jaakkola, and R.A. Young",Combining Location and Expression Data for Principled Discovery of Genetic Regulatory Network Models,35.0,True
+36,https://psb.stanford.edu/psb-online/proceedings/psb02/hucka.pdf,"M. Hucka, A. Finney, H.M. Sauro, H. Bolouri, J. Doyle, and H. Kitano",The ERATO Systems Biology Workbench: Enabling Interaction and Exchange Between Software Tools for Computational Biology,36.0,True
+37,https://psb.stanford.edu/psb-online/proceedings/psb02/kurhekar.pdf,"M.P. Kurhekar, S. Adak, S. Jhunjhunwala, and K. Raghupathy",Genome-Wide Pathway Analysis and Visualization Using Gene Expression Data,37.0,True
+38,https://psb.stanford.edu/psb-online/proceedings/psb02/pavlidis.pdf,"P. Pavlidis, D.P. Lewis, and W.S. Noble",Exploring Gene Expression Data with Class Scores,38.0,True
+39,https://psb.stanford.edu/psb-online/proceedings/psb02/shrager.pdf,"J. Shrager, P. Langley, and A. Pohorille",Guiding Revision of Regulatory Models with Expression Data,39.0,True
+40,https://psb.stanford.edu/psb-online/proceedings/psb02/yoo.pdf,"C. Yoo, V. Thorsson, and G.F. Cooper",Discovery of Causal Relationships in a Gene-Regulation Pathway from a Mixture of Experimental and Observational DNA Microarray Data,40.0,True
+41,https://psb.stanford.edu/psb-online/proceedings/psb02/zilvermit.pdf,"M. Zilversmit, P. O'Grady, and R. Desalle","Shallow Genomics, Phylogenetics, and Evolution in the Family Drosophilidae",41.0,True
+42,https://psb.stanford.edu/psb-online/proceedings/psb02/wang.pdf,"L.-S. Wang, R.K. Jansen, B.M.E. Moret, L.A. Raubeson, and T. Warnow",Fast Phylogenetic Methods for the Analysis of Genome Rearrangement Data: An Empirical Study,42.0,True
+43,https://psb.stanford.edu/psb-online/proceedings/psb02/page.pdf,R.D.M. Page and J.A. Cotton,Vertebrate Phylogenomics: Reconciled Trees and Gene Duplications,43.0,True
+44,https://psb.stanford.edu/psb-online/proceedings/psb02/fernandez-recio.pdf,"J. Fernandez-Recio, M. Totrov, and R. Abagyan",Screened Charge Electrostatic Model in Protein-Protein Docking Simulations,44.0,True
+45,https://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf,"C. Leslie, E. Eskin, and W.S. Noble",The Spectrum Kernel: A String Kernel for SVM Protein Classification,45.0,True
+46,https://psb.stanford.edu/psb-online/proceedings/psb02/nielsen.pdf,R. Nielsen and J. P Huelsenbeck,Detecting Positively Selected Amino Acid Sites Using Posterior Predictive P-Values,46.0,True
+47,https://psb.stanford.edu/psb-online/proceedings/psb02/radivojac.pdf,"P. Radivojac, Z. Obradovic, C.J. Brown, and A.K. Dunker",Improving Sequence Alignments For Intrinsically Disordered Proteins,47.0,True
+48,https://psb.stanford.edu/psb-online/proceedings/psb02/saunders.pdf,"J.A. Saunders, K.D. Gibson, and H.A. Scheraga",ab initio Folding of Multiple-Chain Proteins,48.0,True
+49,https://psb.stanford.edu/psb-online/proceedings/psb02/schonfeld.pdf,"J. Schonfeld, O. Eulenstein, K. Vander Velden, and G.J.P. Naylor",Investigating Evolutionary Lines of Least Resistance Using the Inverse Protein-Folding Problem,49.0,True
+50,https://psb.stanford.edu/psb-online/proceedings/psb02/soyer.pdf,"O. Soyer, M.W. Dimmic, R.R. Neubig, and R.A. Goldstein",Using Evolutionary Methods to Study G-Protein Coupled Receptors,50.0,True
+51,https://psb.stanford.edu/psb-online/proceedings/psb02/stawiski.pdf,"E.W. Stawiski, Y. Mandel-Gutfreund, A.C. Lowenthal, and L.M. Gregoret",Progress in Predicting Protein Function from Structure: Unique Features of O-Glycosidases,51.0,True
+52,https://psb.stanford.edu/psb-online/proceedings/psb02/vert.pdf,J.-P. Vert,Support Vector Machine Prediction of Signal Peptide Cleavage Site Using a New Class of Kernels for Strings,52.0,True
+53,https://psb.stanford.edu/psb-online/proceedings/psb02/will.pdf,S. Will,Constraint-Based Hydrophobic Core Construction for Protein Structure Prediction in the Face-Centered-Cubic Lattice,53.0,True
+54,https://psb.stanford.edu/psb-online/proceedings/psb02/zhou.pdf,R. Zhou and B.D. Silverman,Detecting Native Protein Folds Among Large Decoy Sets with Hydrophobic Moment Profiling,54.0,True

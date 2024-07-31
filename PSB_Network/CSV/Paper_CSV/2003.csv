@@ -1,0 +1,52 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb03/berrar.pdf,"D.P. Berrar, C.S. Downes, W. Dubitzky",Multiclass Cancer Classification Using Gene Expression Profiling and Probabilistic Neural Networks,0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb03/dehoon.pdf,"M.J.L. de Hoon, S. Imoto, K. Kobayashi, N. Ogasawara, S. Miyano",Inferring Gene Regulatory Networks from Time-Ordered Gene Expression Data of Bacillus Subtilis Using Differential Equations,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb03/eskin.pdf,"E. Eskin, M. Gelfand, P. Pevzner",Genome-Wide Analysis of Bacterial Promoter Regions,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb03/ganesh.pdf,"R. Ganesh, T.R. Ioerger, D.A. Siegele",MOPAC: MOtif Finding by Preprocessing and Agglomerative Clustering from Microarrays,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb03/jaeger.pdf,"J. Jaeger, R. Sengupta, W.L. Ruzzo",Improved Gene Selection for Classification of Microarrays,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb03/li.pdf,"H. Li, Y. Luan",Kernel Cox Regression Models for Linking Gene Expression Profiles to Censored Survival Data,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb03/murali.pdf,"T.M. Murali, S. Kasif",Extracting Conserved Gene Expression Motifs from Gene Expression Data,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb03/segal.pdf,"E. Segal, A. Battle, D. Koller",Decomposing Gene Expression into Cellular Processes,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb03/altenbaugh.pdf,"R.E. Altenbaugh, K.J. Kauffman, J.S. Edwards",Suitability and Utility of Computational Analysis Tools: Characterization of Erythrocyte Parameter Variation,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb03/antoniotti.pdf,"M. Antoniotti, F. Park, A. Policiriti, N. Ugel, B. Mishra",Foundations of a Query and Simulation System for the Modeling of Biochemical and Biological Processes,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb03/chrisman.pdf,"L. Chrisman, P. Langley, S. Bay",Incorporating Biological Knowledge into Evaluation of Causal Regulatory Hypotheses,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb03/deng.pdf,"M. Deng, F. Sun, T. Chen",Assessment of the reliability of protein-protein interactions and protein function prediction,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb03/matsuno.pdf,"H. Matsuno, R. Murakani, R. Yamane, N. Yamasaki, S. Fujita, H. Yoshimori, S. Miyano",Boundary Formation by Notch Signaling in Drosophila Multicellular Systems: Experimental Observations and Gene Network Modeling by Genomic Object Net,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb03/smith.pdf,"V.A. Smith, E.D. Jarvis, A.J. Hartemink",Influence of Network Topology and Data Collection on Network Inference,13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb03/edgar.pdf,"R.C. Edgar, K. Sjölander",Simultaneous Sequence Alignment and Tree Construction Using Hidden Markov Models,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb03/kersting.pdf,"K. Kersting, T. Raiko, S. Kramer, L. De Raedt",Towards Discovering Structural Signatures of Protein Folds Based on Logical Hidden Markov Models,15.0,True
+16,https://psb.stanford.edu/psb-online/proceedings/psb03/liang.pdf,"M.P. Liang, D.L. Brutlag, R.B. Altman",Automated Construction of Structural Motifs for Predicting Functional Sites on Protein Structures,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb03/radivojac.pdf,"P. Radivojac, Z. Obradovic, C.J. Brown, A.K. Dunker",Prediction of Boundaries Between Intrinsically Ordered and Disordered Protein Regions,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb03/singh.pdf,"R. Singh, M. Saha",Identifying Structural Motifs in Proteins,18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb03/song.pdf,"G. Song, S. Thomas, K.A. Dill, J.M. Scholtz, N.M. Amato",A Path Planning-Based Study of Protein Folding with a Case Study of Hairpin Formation in Protein G and L,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb03/vonohsen.pdf,"N. von Öhsen, I. Sommer, R. Zimmer",Profile-Profile Alignment: A Powerful Tool for Protein Structure Prediction,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb03/xu.pdf,"J. Xu, M. Li, G. Lin, D. Kim, Y. Xu",Protein Threading by Linear Programming,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb03/addarioberry.pdf,"L. Addario-Berry, M. Hallett, J. Lagergren",Towards Identifying Lateral Gene Transfer Events,22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb03/cheremushkin.pdf,"E. Cheremushkin, A. Kel",Whole Genome Human/Mouse Phylogenetic Footprinting of Potential Transcription Regulatory Signals,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb03/kahveci.pdf,"T. Kahveci, A. Singh",MAP: Searching Large Genome Databases,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb03/nakhleh.pdf,"L. Nakhleh, J. Sun, T. Warnow, C.R. Linder,  B.M.E. Moret, A. Tholse",Towards the Development of Computational Tools for Evaluating Phylogenetic Network Reconstruction Methods,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb03/olman.pdf,"V. Olman, D. Xu, Y. Xu",Identification of Regulatory Binding Sites Using Minimum Spanning Trees,26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb03/ott.pdf,"S. Ott, Y. Tamada, H. Bannai, K. Nakai, and S. Miyano",Intrasplicing - Analysis of Long Intron Sequences,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb03/phang.pdf,"T.L. Phang, M.C. Neville, M. Rudolph, L. Hunter",Trajectory Clustering: A Non-Parametric Method for Grouping Gene Expression Time Courses with Applications to Mammary Development,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb03/wu.pdf,"S. Wu, X. Gu",Algorithms for Multiple Genome Rearrangement by Signed Reversals,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb03/yada.pdf,"T. Yada, Y. Totoki, Y. Takaeda, Y. Sakaki, T. Takagi",DIGIT: A Novel Gene Finding Program by Combining Gene-Finders,30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb03/glenisson.pdf,"P. Glenisson, P. Antal, J. Mathys, Y. Moreau, B. De Moor",Evaluation of the Vector Space Representation in Text-Based Gene Clustering,31.0,True
+32,https://psb.stanford.edu/psb-online/proceedings/psb03/hanisch.pdf,"D. Hanisch, J. Fluck, HT. Mevissen, R. Zimmer",Playing Biology's Name Game: Identifying Protein Names in Scientific Text,32.0,True
+33,https://psb.stanford.edu/psb-online/proceedings/psb03/liu.pdf,"H. Liu, C. Friedman",Mining Terminological Knowledge in Large Biomedical Corpora,33.0,True
+34,https://psb.stanford.edu/psb-online/proceedings/psb03/narayanaswamy.pdf,"M. Narayanaswamy, K. E. Ravikumar, K. Vi jay-Shanker",A Biological Named Entity Recognizer,34.0,True
+35,https://psb.stanford.edu/psb-online/proceedings/psb03/sarkar.pdf,"I.N. Sarkar, M.N. Cantor, R. Gelman, F. Hartel, Y.A. Lussier",Linking Biomedical Language Information and Knowledge Resources in the 21st Century: GO and UMLS,35.0,True
+36,https://psb.stanford.edu/psb-online/proceedings/psb03/schwartz.pdf,"A.S. Schwartz, M.A. Hearst",A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text,36.0,True
+37,https://psb.stanford.edu/psb-online/proceedings/psb03/aviitzhak.pdf,"H.I. Avi-Itzhak, X. Su, F.M. De La Vega",Selection of Minimum Subsets of Single Nucleotide Polymorphisms to Capture Haplotype Block Diversity,37.0,True
+38,https://psb.stanford.edu/psb-online/proceedings/psb03/comeron.pdf,"J.M. Comeron, M. Kreitman, F.M. De La Vega",On the Power to Detect SNP/Phenotype Association in Candidate Quantitative Trait Loci Genomic Regions: A Simulation Study,38.0,True
+39,https://psb.stanford.edu/psb-online/proceedings/psb03/gordon.pdf,"D. Gordon, M.A. Levenstien, S.J. Finch, J. Ott",Errors and Linkage Disequilibrium Interact Multiplicatively When Computing Sample Sizes for Genetic Case-Control Association Studies,39.0,True
+40,https://psb.stanford.edu/psb-online/proceedings/psb03/koivisto.pdf,"M. Koivisto, M. Perola, T. Varilo, W. Hennah, J. Ekelund, M. Lukk, L. Peltonen, E. Ukkonen, H. Mannila",An MDL Method for Finding Haplotype Blocks and for Estimating the Strength of Haplotype Block Boundaries,40.0,True
+41,https://psb.stanford.edu/psb-online/proceedings/psb03/lancaster.pdf,"A. Lancaster, M. Nelson, D. Meyer, R. Single, G. Thomson",PyPop: A Software Framework for Population Genomics: Analyzing Large-Scale Multi-Locus Genotype Data,41.0,True
+42,https://psb.stanford.edu/psb-online/proceedings/psb03/rannala.pdf,"B. Rannala, J.P. Reeve",Joint Bayesian Estimation of Mutation Location and Age Using Linkage Disequilibrium,42.0,True
+43,https://psb.stanford.edu/psb-online/proceedings/psb03/stryke.pdf,"D. Stryke, C.C. Huang, M. Kawamoto, S.J. Johns, E.J. Carlson, J.A. Deyoung, M.K. Leabman, I. Herskowitz, K.M. Giacomini, T.E. Ferrin",SNP Analysis and Presentation in the Pharmacogenetics of Membrane Transporters Project,43.0,True
+44,https://psb.stanford.edu/psb-online/proceedings/psb03/tsalenko.pdf,"A. Tsalenko, A. Ben-Dor, N. Cox, Z. Yakhini",Methods for Analysis and Visualization of SNP Genotype Data for Complex Diseases,44.0,True
+45,https://psb.stanford.edu/psb-online/proceedings/psb03/badea.pdf,L. Badea,Functional Discrimination of Gene Expression Patterns in Terms of the Gene Ontology,45.0,True
+46,https://psb.stanford.edu/psb-online/proceedings/psb03/hahn.pdf,"U. Hahn, S. Schulz",Towards a Broad-Coverage Biomedical Ontology Based on Description Logics,46.0,True
+47,https://psb.stanford.edu/psb-online/proceedings/psb03/lambrix.pdf,"P. Lambrix, A. Edberg",Evaluation of Ontology Merging Tools in Bioinformatics,47.0,True
+48,https://psb.stanford.edu/psb-online/proceedings/psb03/lord.pdf,"P.W. Lord, R.D. Stevens, A. Brass, C.A.Goble",Semantic Similarity Measures as Tools for Exploring the Gene Ontology,48.0,True
+49,https://psb.stanford.edu/psb-online/proceedings/psb03/tulipano.pdf,"P.K. Tulipano, W. Millar, J.J. Cimino",Linking Molecular Imaging Terminology to the Gene Ontology (GO),49.0,True
+50,https://psb.stanford.edu/psb-online/proceedings/psb03/wroe.pdf,"C.J. Wroe, R. Stevens, C.A. Goble, M. Ashburner",A Methodology to Migrate the Gene Ontology to a Description Logic Environment Using DAML+OIL,50.0,True

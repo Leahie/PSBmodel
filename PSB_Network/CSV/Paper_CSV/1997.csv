@@ -1,0 +1,33 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb97/argos.pdf,"P. Argos, H.-W Mewes and D. Frishman",Distributed and Intelligent Databases,0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb97/bajorath.pdf,J. Bajorath and T.E. Klein,Modern Concepts in Molecular Modeling,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb97/delavega.pdf,"F.M. De La Vega, D. Thieffry and J. Collado-Vides",Extracting Biological Knowledge from DNA Sequences,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb97/fischer.pdf,"D. Fischer, A. Godzik, S. Chung, S. Subbiah and R. Lathrop",Understanding and Predicting Protein Structure,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb97/goldstein.pdf,R.A. Goldstein and E. Bornberg-Bauer,Biopolymer Structures: Where Do They Come From? Where Are They Going? Evolutionary Perspectives on Biopolymer Structure and Function,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb97/head.pdf,T. Head and T. Yokomori,Computing with Biomolecules,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb97/karp.pdf,P.D. Karp and M. Riley,Computation in Biological Pathways,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb97/johns.pdf,S.J. Johns and S.M. Thompso,Biocomputing Education: Further Challenges,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb97/honig.pdf,B. Honig,New Challenges in Computational Biochemistry,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb97/abkevich.pdf,"V.I. Abkevich, A.M. Gutin and E.I. Shakhnovich",Computer Simulations of Prebiotic Evolution,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb97/achard.pdf,F. Achard and E. Barillot,Ubiquitous Distributed Objects with CORBA,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb97/berard.pdf,"D.R. Berard, D. Wei and D.R. Salahub",Towards a Density Functional Treatment of Chemical Reactions in Complex Media,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb97/bergeron.pdf,"A. Bergeron, E. Gaul and D. Bergeron",Combinatorial Tools for the Analysis of Transcriptional Regulation,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb97/dalke.pdf,A. Dalke and K Schulten,Using Tcl for Molecular Visualization and Analysis,13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb97/dassow.pdf,J. Dassow and V. Mitrana,On Some Operations Suggested by Genome Evolution,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb97/freund.pdf,"R. Freund, E. Csuhaj-Varjú and F. Wachtler",Test Tube Systems with Cutting/Recombination Operations,15.0,True
+16,https://psb.stanford.edu/psb-online/proceedings/psb97/goto.pdf,"S. Goto, H. Bono, H. Ogata, W. Fujibuchi, T. Nishioka, K. Sato and M. Kanehisa;",Organizing and Computing Metabolic Pathway Data in Terms of Binary Relations,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb97/igarashi.pdf,T. Igarashi and T. Kaminuma,Development of a Cell Signaling Networks Database,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb97/kono.pdf," H. Kono, M. Nishiyama, M. Tanokura and J. Doi",Design of Hydrophobic Core of E. Coli Malate Dehydrogenase Based on the Side-Chain Packing,18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb97/markowitz.pdf," V.M. Markowitz, I-M.A. Chen, A.S. Kosky and E. Szeto",Facilities for Exploring Molecular Biology Databases on the Web: A Comparative Study,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb97/martin.pdf," C.H. Martin, Z.P. Chen and R.R. Birge",Towards a Bacteriorhodopsin-Silicon Neuromorphic Photosensor,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb97/matsuda.pdf," H. Matsuda, F. Taniguchi and A. Hashimoto",An Approach to Detection of Protein Structural Motifs Using an Encoding Scheme of Backbone Conformations,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb97/mittenthal.pdf,J.E. Mittenthal,An Algorithm to Assemble Pathways from Processes,22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb97/ponomarenko.pdf," M.P. Ponomarenko, J.V. Ponomarenko , A.E. Kel and N.A. Kolchanov",Search for DNA Conformation Features for Function Sites. Investigation of the TATA Box,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb97/renner.pdf, A. Renner and E. Bornberg-Bauer,Exploring the Fitness Landscapes of Lattice Proteins,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb97/reva.pdf," B.A. Reva, A.V. Finkelstein, M.F. Sanner and A.J. Olson",Accurate Mean-Force Pairwise-Residue Potentials for Discrimination of Protein Folds,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb97/sanner.pdf,M.F. Sanner and A.J. Olson,Real Time Surface Reconstruction for Moving Molecular Fragments,26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb97/satou.pdf," K. Satou, G. Shibayama, T. Ono, Y. Yamamura, E. Furuichi, S. Kuhara and T. Takagi",Finding Association Rules on Heterogeneous Genome Data,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb97/shibuya.pdf, T. Shibuya and H. Imai,Enumerating Suboptimal Alignments of Multiple Biological Sequences Efficiently,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb97/simonson.pdf, T. Simonson,Redox Properties of Cytochrome C: Novel Linear Response and Hybrid Continuum-Microscopic Methodologies,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb97/thieffry.pdf,"D. Thieffry, D.A. Rosenblueth, A.M. Huerta, H. Salgado and J. Collado-Vides",Definite-Clause Grammars for the Analysis of CIS-Regulatory Regions in E. Coli,30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb97/wei.pdf," L. Wei, R.B. Altman and J.T. Chang",Using the Radial Distribution of Physical Features to Compare Amino Acid Environments and Align Amino Acid Sequences,31.0,True

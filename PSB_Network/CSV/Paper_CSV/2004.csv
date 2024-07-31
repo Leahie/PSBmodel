@@ -1,0 +1,49 @@
+,pdf,authors,titles,number,available
+0,https://psb.stanford.edu/psb-online/proceedings/psb04/buhler.pdf,"J.D. Buhler, R.M. Souvenir, W. Zhang, and R.D. Mitra",Design of a High-Throughput Assay for Alternative Splicing Using Polymerase Colonies,0.0,True
+1,https://psb.stanford.edu/psb-online/proceedings/psb04/cline.pdf,"M.S. Cline, R. Shigeta, R.L. Wheeler, M.A. Siani-Rose, D. Kulp, and A.E. Loraine",The Effects of Alternative Splicing on Transmembrane Proteins in the Mouse Genome,1.0,True
+2,https://psb.stanford.edu/psb-online/proceedings/psb04/grasso.pdf,"C. Grasso, B. Modrek, Y. Xing, and C. Lee",Genome-Wide Detection of Alternative Splicing in Expressed Sequences Using Partial Order Multiple Sequence Alignment Graphs,2.0,True
+3,https://psb.stanford.edu/psb-online/proceedings/psb04/kan.pdf,"Z. Kan, J. Castle, J. M. Johnson, and N. F. Tsinoremas",Detection of Novel Splice Forms in Human and Mouse Using Cross-Species Approach,3.0,True
+4,https://psb.stanford.edu/psb-online/proceedings/psb04/sakai.pdf,H. Sakai and O. Maruyama,Extensive Search for Discriminative Features of Alternative Splicing,4.0,True
+5,https://psb.stanford.edu/psb-online/proceedings/psb04/sugnet.pdf,"C.W. Sugnet, W.J. Kent, M. Ares Jr., and D. Haussler",Transcriptome and Genome Conservation of Alternative Splicing Events in Humans and Mice,5.0,True
+6,https://psb.stanford.edu/psb-online/proceedings/psb04/zheng.pdf,"C.L. Zheng, T.M. Nair, M. Gribskov, Y.S. Kwon, H.R. Li, and X.-D. Fu",A Database Designed to Computationally Aid an Experimental Approach to Alternative Splicing,6.0,True
+7,https://psb.stanford.edu/psb-online/proceedings/psb04/bass.pdf,"M.P. Bass, E.R. Martin, and E.R. Hauser",Pedigree Generation for Analysis of Genetic Linkage and Association,7.0,True
+8,https://psb.stanford.edu/psb-online/proceedings/psb04/eronen.pdf,"L. Eronen, F. Geerts, and H. Toivonen",A Markov Chain Approach to Reconstruction of Long Haplotypes,8.0,True
+9,https://psb.stanford.edu/psb-online/proceedings/psb04/kang.pdf,"S.J. Kang, D. Gordon, A.M. Brown, J. Ott, and S.J. Finch",Tradeoff Between No-Call Reduction in Genotyping Error Rate and Loss of Sample Size for Genetic Case/Control Association Studies,9.0,True
+10,https://psb.stanford.edu/psb-online/proceedings/psb04/kim.pdf,"S.K. Kim, K. Zhang, and F. Sun",A Comparison of Different Strategies for Computing Confidence Intervals of the Linkage Disequilibrium Measure,10.0,True
+11,https://psb.stanford.edu/psb-online/proceedings/psb04/sharan.pdf,"R. Sharan, A.Ben-Dor, and Z. Yakhini",Multiplexing Schemes for Generic SNP Genotyping Assays,11.0,True
+12,https://psb.stanford.edu/psb-online/proceedings/psb04/zhu.pdf,"X. Zhu, S. Zhang, D. Kan, and R. Cooper",Haplotype Block Definition and Its Application,12.0,True
+13,https://psb.stanford.edu/psb-online/proceedings/psb04/aitken.pdf,"J.S. Aitken, B.L. Webber, and J.B.L. Bard",Part-of Relations in Anatomy Ontologies: A Proposal for RDFS and OWL Formalisations,13.0,True
+14,https://psb.stanford.edu/psb-online/proceedings/psb04/gkoutos.pdf,"G.V. Gkoutos, E.C.J. Green, A.M. Mallon, J.M. Hancock, and D. Davidson",Building Mouse Phenotype Ontologies,14.0,True
+15,https://psb.stanford.edu/psb-online/proceedings/psb04/karp.pdf,"P.D. Karp, S. Paley, C.J. Krieger, and P. Zhang",An Evidence Ontology for Use in Pathway/Genome Databases,15.0,True
+16,https://psb.stanford.edu/psb-online/proceedings/psb04/lussier.pdf,Y.A. Lussier and J. Li,Terminological Mapping for High Throughput Comparative Biology of Phenotypes,16.0,True
+17,https://psb.stanford.edu/psb-online/proceedings/psb04/ogren.pdf,"P.V. Ogren, K.B. Cohen, G.K. Acquaah-Mensah, J. Eberlein, and L. Hunter",The Compositional Structure of Gene Ontology Terms,17.0,True
+18,https://psb.stanford.edu/psb-online/proceedings/psb04/rector.pdf,A. Rector,"Defaults, Context, and Knowledge: Alternatives for OWL-Indexed Knowledge Bases",18.0,True
+19,https://psb.stanford.edu/psb-online/proceedings/psb04/tuason.pdf,"O. Tuason, L. Chen, H. Liu, J.A Blake, and C. Friedman",Biological Nomenclatures: A Source of Lexical Knowledge and Ambiguity,19.0,True
+20,https://psb.stanford.edu/psb-online/proceedings/psb04/zhang.pdf,S. Zhang and O. Bodenreider,Investigating Implicit Knowledge in Ontologies with Application to the Anatomical Domain,20.0,True
+21,https://psb.stanford.edu/psb-online/proceedings/psb04/bhattacharya.pdf,"A. Bhattacharya, T. Can, T. Kahveci, A. K. Singh, and  Y.-F. Wang",ProGreSS: Simultaneous Searching of Protein Databases by Sequence and Structure,21.0,True
+22,https://psb.stanford.edu/psb-online/proceedings/psb04/dehoon.pdf,"M.J.L. De Hoon, S. Imoto, K. Kobayashi, N. Ogasawara, and S. Miyano","Predicting the Operon Structure of Bacillus subtilis Using Operon Length, Intergene Distance, and Gene Expression Information",22.0,True
+23,https://psb.stanford.edu/psb-online/proceedings/psb04/eskin.pdf,E. Eskin and E. Agichtein,Combining Text Mining and Sequence Analysis to Discover Protein Functional Regions,23.0,True
+24,https://psb.stanford.edu/psb-online/proceedings/psb04/lanckriet.pdf,"G. R. G. Lanckriet, M. Deng, N. Cristianini, M. I. Jordan, and  W. S. Noble",Kernel-Based Data Fusion and Its Application to Protein Function Prediction in Yeast,24.0,True
+25,https://psb.stanford.edu/psb-online/proceedings/psb04/li.pdf,"H. Li, J. Li, S.H. Tan, S.-K. Ng",Discovery of Binding Motif Pairs from Protein Complex Structural Data and Protein Interaction Sequence Data,25.0,True
+26,https://psb.stanford.edu/psb-online/proceedings/psb04/moses.pdf,"A.M. Moses, D.Y. Chiang, and M.B. Eisen",Phylogenetic Motif Detection by Expectation-Maximization on Evolutionary Mixtures,26.0,True
+27,https://psb.stanford.edu/psb-online/proceedings/psb04/nariai.pdf,"N. Nariai, S. Kim, S. Imoto, and S. Miyano",Using Protein-Protein Interactions for Refining Gene Networks Estimated from Microarray Data by Bayesian Networks,27.0,True
+28,https://psb.stanford.edu/psb-online/proceedings/psb04/prakash.pdf,"A. Prakash, M. Blanchette, S. Sinha, and M. Tompa",Motif Discovery in Heterogeneous Sequence Data,28.0,True
+29,https://psb.stanford.edu/psb-online/proceedings/psb04/takusagawa.pdf,K.T. Takusagawa and D.K. Gifford,Negative Information for Motif Discovery,29.0,True
+30,https://psb.stanford.edu/psb-online/proceedings/psb04/bourne.pdf,"P.E. Bourne, C.K.J. Allerston, W. Krebs, W. Li, I.N. Shindyalov, A. Godzik, I. Friedberg, T. Liu, D. Wild, S. Hwang, Z. Ghahramani, L. Chen, and J. Westbrook",The Status of Structural Genomics Defined Through the Analysis of Current Targets and Structures,30.0,True
+31,https://psb.stanford.edu/psb-online/proceedings/psb04/chinnasamy.pdf,"A. Chinnasamy, W.-K. Sung, and A. Mittal",Protein Structure and Fold Prediction Using Tree-Augmented Bayesian Classifier,31.0,True
+32,https://psb.stanford.edu/psb-online/proceedings/psb04/dubey.pdf,"A. Dubey, S. Hwang, C. Rangel, C.E. Rasmussen, Z. Ghahramani, and D.L. Wild",Clustering Protein Sequence and Structure Space with Infinite Gaussian Mixture Models,32.0,True
+33,https://psb.stanford.edu/psb-online/proceedings/psb04/huan.pdf,"J. Huan, W. Wang, A. Washington, J. Prins, R. Shah, and A. Tropsha",Accurate Classification of Protein Structural Families Using Coherent Subgraph Analysis,33.0,True
+34,https://psb.stanford.edu/psb-online/proceedings/psb04/nebel.pdf,M.E. Nebel,Identifying Good Predictions of RNA Secondary Structure,34.0,True
+35,https://psb.stanford.edu/psb-online/proceedings/psb04/peng.pdf,"K. Peng, Z. Obradovic, and S. Vucetic",Exploring Bias in the Protein Data Bank Using Contrast Classifiers,35.0,True
+36,https://psb.stanford.edu/psb-online/proceedings/psb04/potluri.pdf,"S. Potluri, A.A. Khan, A. Kuzminykh, J.M. Bujnicki, A.M. Friedman, and C. Bailey-Kellogg",Geometric Analysis of Cross-Linkability for Protein Fold Discrimination,36.0,True
+37,https://psb.stanford.edu/psb-online/proceedings/psb04/qu.pdf,"Y. Qu, J.-T. Guo, V. Olman, and Y. Xu",Protein Fold Recognition Through Application of Residual Dipolar Coupling Data,37.0,True
+38,https://psb.stanford.edu/psb-online/proceedings/psb04/dasika2.pdf,"M. Dasika, A. Gupta, C.D. Maranas, and J.D. Varner",A Mixed Integer Linear Programming (MILP) Framework for Inferring Time Delay in Gene Regulatory Networks,38.0,True
+39,https://psb.stanford.edu/psb-online/proceedings/psb04/dibernardo.pdf,"D. Di Bernardo, T.S. Gardner, and J.J. Collins",Robust Identification of Large Genetic Networks,39.0,True
+40,https://psb.stanford.edu/psb-online/proceedings/psb04/gat-viks.pdf,"I. Gat-Viks, R. Shamir, R.M. Karp, and R. Sharan",Reconstructing Chain Functions in Genetic Networks,40.0,True
+41,https://psb.stanford.edu/psb-online/proceedings/psb04/kightley.pdf,"D.A. Kightley, N. Chandra, and K. Elliston",Inferring Gene Regulatory Networks from Raw Data: A Molecular Epistemics Approach,41.0,True
+42,https://psb.stanford.edu/psb-online/proceedings/psb04/lecca.pdf,"P. Lecca, C. Priami, C. Laudanna, and G. Constantin",A Biospi Model of Lymphocyte-Endothelial Interactions in Inflamed Brain Venules,42.0,True
+43,https://psb.stanford.edu/psb-online/proceedings/psb04/lu.pdf,"X. Lu, M. Hauskrecht, and R.S. Day",Modeling Cellular Processes with Variational Bayesian Cooperative Vector Quantizer,43.0,True
+44,https://psb.stanford.edu/psb-online/proceedings/psb04/mcshan.pdf,"D.C. McShan, M. Upadhyaya, and I. Shah",Symbolic Inference of Xenobiotic Metabolism,44.0,True
+45,https://psb.stanford.edu/psb-online/proceedings/psb04/ott.pdf,"S. Ott, S. Imoto, and S. Miyano",Finding Optimal Models for Small Gene Networks,45.0,True
+46,https://psb.stanford.edu/psb-online/proceedings/psb04/talcott.pdf,"C. Talcott, S. Eker, M. Knapp, P. Lincoln, and K. Laderoute",Pathway Logic Modeling of Protein Functional Domains in Signal Transduction,46.0,True
+47,https://psb.stanford.edu/psb-online/proceedings/psb04/wu.pdf,"F.X. Wu, W.J. Zhang, and A.J. Kusalik",Modeling Gene Expression from Microarray Expression Data with State-Space Equations,47.0,True
