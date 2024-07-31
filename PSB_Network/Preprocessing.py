@@ -163,7 +163,7 @@ for title, details in paper_meta.items():
     data.append({'Title': title, 'Authors': authors, 'Year': year})
 
 df = pd.DataFrame(data)
-os.environ['NCBI_API_KEY'] = '4216f1a2a91c969d346d66f491930ec94508'
+os.environ['NCBI_API_KEY'] = 'temp'
 # Download the stop words list
 nltk.download('stopwords')
 
