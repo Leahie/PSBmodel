@@ -14,4 +14,4 @@ If you would like to use our training data, it is in this [drive](https://drive.
 ## Webapplication
 In addition to the main code, [here](https://psb-rag.streamlit.app/) is a link to a web application that enables users to efficiently explore past proceedings. \
 Below is a video tutorial of how to use it \
-[![Video Tutorial](https://img.youtube.com/vi/t4ghzrL7AgM/3.jpg)](https://www.youtube.com/watch?v=t4ghzrL7AgM)
+[![Video Tutorial](https://img.youtube.com/vi/t4ghzrL7AgM/0.jpg)](https://www.youtube.com/watch?v=t4ghzrL7AgM)
